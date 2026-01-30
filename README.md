@@ -70,7 +70,7 @@ The system works by:
 
 ---
 
-## 🎯 Features
+##  Features
 
 * Accurate indoor navigation
 * Graph-based routing
@@ -80,7 +80,7 @@ The system works by:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Multi-floor routing
 * Outdoor + indoor hybrid navigation
@@ -89,7 +89,7 @@ The system works by:
 
 ---
 
-## 👥 Team
+##  Team
 
 * **Inayat Ul lah Wani**
 * **Farhan Showket**
@@ -97,7 +97,7 @@ The system works by:
 
 ---
 
-## 📜 License
+##  License
 
 This project is for **academic and research purposes**.
 
